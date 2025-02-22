@@ -1,0 +1,31 @@
+*{
+   
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+}
+h1{
+    padding: 10px;
+    
+}
+p{
+    padding: 5px;
+    padding-bottom: 20px;
+}
+form{
+    margin-left: 10px;
+}
+img{
+    margin-top: 20px;
+    width: 200px;
+    height: 150px;
+    margin-left: 9px;
+}
+a{
+    text-decoration: none;
+    color: red;
+    margin-top: 50px;
+}
+a:hover{
+    color: black;
+}
